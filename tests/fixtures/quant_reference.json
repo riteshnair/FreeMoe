@@ -1,0 +1,139 @@
+{
+  "schema": "freemoe.quant-reference.v1",
+  "generator": "tools/quant_reference.py",
+  "sha256": "88cf231306c16e8d168b5cee13fc5b463195eca377591d24ea58d2dfbc295577",
+  "bytes": 12137,
+  "cases": [
+    {
+      "type_id": 0,
+      "block_bytes": 4,
+      "elements": 1
+    },
+    {
+      "type_id": 1,
+      "block_bytes": 2,
+      "elements": 1
+    },
+    {
+      "type_id": 2,
+      "block_bytes": 18,
+      "elements": 32
+    },
+    {
+      "type_id": 3,
+      "block_bytes": 20,
+      "elements": 32
+    },
+    {
+      "type_id": 6,
+      "block_bytes": 22,
+      "elements": 32
+    },
+    {
+      "type_id": 7,
+      "block_bytes": 24,
+      "elements": 32
+    },
+    {
+      "type_id": 8,
+      "block_bytes": 34,
+      "elements": 32
+    },
+    {
+      "type_id": 9,
+      "block_bytes": 40,
+      "elements": 32
+    },
+    {
+      "type_id": 10,
+      "block_bytes": 84,
+      "elements": 256
+    },
+    {
+      "type_id": 11,
+      "block_bytes": 110,
+      "elements": 256
+    },
+    {
+      "type_id": 12,
+      "block_bytes": 144,
+      "elements": 256
+    },
+    {
+      "type_id": 13,
+      "block_bytes": 176,
+      "elements": 256
+    },
+    {
+      "type_id": 14,
+      "block_bytes": 210,
+      "elements": 256
+    },
+    {
+      "type_id": 15,
+      "block_bytes": 292,
+      "elements": 256
+    },
+    {
+      "type_id": 20,
+      "block_bytes": 18,
+      "elements": 32
+    },
+    {
+      "type_id": 24,
+      "block_bytes": 1,
+      "elements": 1
+    },
+    {
+      "type_id": 25,
+      "block_bytes": 2,
+      "elements": 1
+    },
+    {
+      "type_id": 26,
+      "block_bytes": 4,
+      "elements": 1
+    },
+    {
+      "type_id": 27,
+      "block_bytes": 8,
+      "elements": 1
+    },
+    {
+      "type_id": 28,
+      "block_bytes": 8,
+      "elements": 1
+    },
+    {
+      "type_id": 30,
+      "block_bytes": 2,
+      "elements": 1
+    },
+    {
+      "type_id": 34,
+      "block_bytes": 54,
+      "elements": 256
+    },
+    {
+      "type_id": 35,
+      "block_bytes": 66,
+      "elements": 256
+    },
+    {
+      "type_id": 41,
+      "block_bytes": 18,
+      "elements": 128
+    },
+    {
+      "type_id": 42,
+      "block_bytes": 18,
+      "elements": 64
+    },
+    {
+      "type_id": 142,
+      "block_bytes": 34,
+      "elements": 128
+    }
+  ],
+  "note": "Expected values are produced by this file's independent decoders. The C++ decoders must match them bit-for-bit where the arithmetic is exactly representable, and within 1e-6 otherwise."
+}
